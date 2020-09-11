@@ -78,7 +78,7 @@ extends AbstractMojo
 
     /** GWT artifacts groupId */
     public static final String GWT_GROUP_ID = "com.google.gwt";
-    public static final String VAADIN_GROUP_ID = "com.vaadin";
+    public static final String VAADIN_GROUP_ID = "consulo.internal.vaadin";
 
     // --- Some Maven tools ----------------------------------------------------
 
